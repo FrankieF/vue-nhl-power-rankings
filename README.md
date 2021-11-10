@@ -4,6 +4,8 @@ Power Rankings are calculated by wins and loses against teams played and their o
 Beating a team in first place is +32, second place is +31, last place is +1. Losing to a team in first place is -1, second place is -2, last place is -32.
 Overtime loses reduces the value by half. 
 
+https://nhl-power-rankings.herokuapp.com/
+
 ## Project setup
 ```
 npm install
